@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+}
+fill-space{
+    flex: 1 1 auto;
+    
+}
+.mat-headline{
+    text-align: center;
+}
